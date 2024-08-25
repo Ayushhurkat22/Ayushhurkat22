@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Hurkat</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhurkat22&label=Profile%20views%20(x20)&color=0e75b6&style=flat" alt="ayushhurkat22" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhurkat22&label=Profile%20views%20&color=0e75b6&style=flat" alt="ayushhurkat22" />
  </p>
 
 - 🔭 I have worked on [White Board Application with Undo-Redo functionality](https://whiteboardapp-ayushs-projects-bd8557a7.vercel.app/)
